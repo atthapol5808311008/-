@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/atthapol5808311008/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atthapol5808311008/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html><head><title>ตัวอย่าง prettify</title><meta charset="utf-8" />
+<script src="https://rawgit.com/google/code-prettify/master/loader/run_prettify.js?autoload=true&amp;skin=sunburst" defer></script>
+</head><body style="background-color:#dddddd;">
+<table style="width:600px;float:left;"><tr><td>
+<?prettify linenums=true?>
+<pre class="prettyprint" style="font-size:8px;width:600px;">
+&lt;html>&lt;head>
+&lt;title>prettify.js&lt;/title>
+&lt;/head>&lt;body>ทดสอบ
+&lt;br>ดูที่นี่
+&lt;br>hello
+&lt;br>&lt;a href=hello.htm>hello.htm&lt;/a>
+&lt;br>https://github.com/google/code-prettify/blob/master/docs/getting_started.md
+&lt;br>https://rawgit.com/google/code-prettify/master/loader/run_prettify.js?autoload=true&amp;skin=sons-of-obsidian
+&lt;/body>
+&lt;/html>
+</pre>
+</td></tr></table>
+<table style="width:100px;"><tr><td>
+<a href="http://www.thaiall.com/me"><img src="http://www.thaiall.com/me/picme.jpg" style="width:100px;float:left;" /></a>
+</td></tr></table>
+</body>
+</html>
